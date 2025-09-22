@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Damai Arianna
 
-<!--
-**Damaiarianna/Damaiarianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Geophysics student, currently studying at Universitas Gadjah Mada. I'm a passionate learner and a curious builder who enjoys creating, exploring, and sharing ideas. I'm currently focused on growing my skills and diving deeper into the world of technology, creativity, and collaboration.
 
-Here are some ideas to get you started:
+##Apa yang sedang saya kerjakan 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Di semester 3 ini, aku sedang mempelajari metode komputasi, selain itu aku juga sedang mengeksplor dan memperbanyak relasi dengan mengikuti beberapa kepanitiaan dan organisasi. 👥🤝 🏢
+
+
+##Funfact about me 💡 🤔 😲
+
+-aku punya alergi sama minyak kayu putih😵
+-aku kalo mau tidur suka semprotin parfum ke kasur 🥰
+
+
+##Hobi aku 🎨🎶📚🎮⚽ 🏸📷 
+
+-aku suka journaling, aku suka nulis sesuatu tentang apa yang aku rasain, tapi belakangan ini udah jarang 📖 ✍️ 📓
+-aku suka banget dengerin musik, tiap hari aku pasti dengerin musik, aku gapernah ga dengerin musik kalo lagi sendiri 🎧🎸 🎶
